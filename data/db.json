@@ -1,0 +1,23 @@
+{
+  "Student": {
+    "id": "6630200438",
+    "Name": "Pichayachai Kladprom",
+    "majorID": "S05",
+    "majorName": "Computer Science",
+    "LastSchool": "Streesmutprakan School"
+  },
+  "subjects": [
+    {
+      "id": "01418214",
+      "name": "Practicum in Software Development",
+      "credits": 1,
+      "grade": "A"
+    },
+    {
+      "id": "01418221",
+      "name": "Fundamentals of Database Systems",
+      "credits": 3,
+      "grade": "A"
+    }
+  ]
+}
